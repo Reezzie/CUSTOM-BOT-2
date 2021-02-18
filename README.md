@@ -1,10 +1,5 @@
-# CUSTOM-BOT-2  bot by reezie
+# discord.js-bot-v12
+A POWER FULL DISCORD BOT
 
-.env
-```TOKEN = XXXXXXXX```
-no need of yt API ..... 🥺
-
-SUPPORT SERVER 
-https://discord.gg/czxqf6K9cR
-
-Enjoy <3 
+DON'T FORGET TO SUBSCRIBE YT CHANNEL 
+https://youtu.be/7HP-a3Z-Bqk
